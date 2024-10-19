@@ -1,4 +1,4 @@
-<section class="container criar-pensamento ff-inter">
+<section class="container criar-pensamentos ff-inter">
   <header class="header">
     <h2>Adicione um <br>pensamento novo:</h2>
   </header>
@@ -25,6 +25,10 @@
     </div>
     <div class="mensagem__erro" *ngIf="formulario.get('autoria')?.errors?.['minlength'] && formulario.get('autoria')?.touched">
       Autoria precisa ter no minimo 3 caracteres
+    </div>
+    <div class="mensagem__erro"
+      *ngIf="formulario.get('autoria')?.errors?.['minusculo'] && formulario.get('autoria')?.touched">
+        Campo autoria aceita apenas letras minúsculas
     </div>
     <label for="modelo">Selecione o modelo do card:</label>
     <div class="container-radio">

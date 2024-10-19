@@ -4,43 +4,85 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor, testando edição",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "erw",
       "autoria": "asdasd",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "werwer",
       "autoria": "werwer",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "                      srrhrt",
       "autoria": "asdasd",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "sdsd",
       "autoria": "asdad",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "asdad",
       "autoria": "asds",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
+    },
+    {
+      "conteudo": "Outro pensamento",
+      "autoria": "autor",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "asdasd",
+      "autoria": "3erfwsds",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "cvbfsd",
+      "autoria": "asd",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "dsfg",
+      "autoria": "dfg",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 12
+    },
+    {
+      "conteudo": "sdfsadf",
+      "autoria": "sdfsdf",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 13
     }
   ]
 }
